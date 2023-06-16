@@ -498,7 +498,8 @@ footer {
 
     .line2 {
         width: 35%;
-        top: 1035px;
+        top: 1193px;
+        /* top: auto; */
     left: 148px;
 }
 
