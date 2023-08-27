@@ -203,7 +203,8 @@ p{
     width: 100%;
    }
    .quora{
-    left: 446px;
+    /* left: 446px; */
+    left: 380px;
     font-size: 27px;
    }
  
